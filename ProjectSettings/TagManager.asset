@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - points
+  - frog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bg
+    uniqueID: 26973815
+    locked: 0
+  - name: Backgrounds
+    uniqueID: 3801809175
+    locked: 0
+  - name: Backgrounds2
+    uniqueID: 1000806331
+    locked: 0
+  - name: Ardefakty
+    uniqueID: 2280891391
+    locked: 0
+  - name: Player
+    uniqueID: 2383265461
+    locked: 0
